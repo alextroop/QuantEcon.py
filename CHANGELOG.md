@@ -1,4 +1,4 @@
-# Changelog
+# Changelo
 
 ## [v0.4.8](https://github.com/QuantEcon/QuantEcon.py/tree/v0.4.8) (2020-07-02)
 
